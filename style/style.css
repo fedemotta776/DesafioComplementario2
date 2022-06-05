@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+}
+.bannerImg {
+    width: 100%;
+}
+.imgNav {
+    margin-left: 15px;
+    height: auto; 
+    width: auto; 
+    max-width: 150px; 
+    max-height: 150px;
+}
+.imgAxs {
+    height: auto; 
+    width: auto; 
+    max-width: 50px; 
+    max-height: 50px;
+}
+#navbarNavDropdown {
+    justify-content: flex-end;
+}
+
